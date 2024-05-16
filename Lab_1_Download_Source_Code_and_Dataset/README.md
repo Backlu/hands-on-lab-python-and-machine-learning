@@ -33,4 +33,8 @@ unzip dataset
 把dataset資料夾整份放到上一步創建的data資料夾下
 這時候應該可以在jupyter notebook的頁面看到data資料夾與裡面的csv files
 
-![](images/06.png)    
+![](images/06.png)
+
+## 4. Use pandas to read data
+
+The notebook we want to open is [lab2_load_dataset.ipynb](lab2_load_dataset.ipynb).
