@@ -35,6 +35,7 @@ unzip dataset
 
 ![](images/06.png)
 
-## 4. Use pandas to read data
+## 4. Use pandas to explore data
 
 The notebook we want to open is [lab2_load_dataset.ipynb](lab2_load_dataset.ipynb).
+
