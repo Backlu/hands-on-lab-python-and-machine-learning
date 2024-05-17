@@ -37,5 +37,5 @@ unzip dataset
 
 ## 4. Use pandas to explore data
 
-The notebook we want to open is [lab1_load_dataset.ipynb](lab2_load_dataset.ipynb).
+The notebook we want to open is [lab1_load_dataset.ipynb](lab1_load_dataset.ipynb).
 
