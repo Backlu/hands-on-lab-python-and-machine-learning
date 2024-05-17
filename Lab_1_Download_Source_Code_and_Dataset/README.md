@@ -17,7 +17,7 @@ unzip source code
 
 ![](images/03.png)
 
-這時候應該可以在jupyter notebook的頁面(http://localhost:8888/tree)看到source code資料夾
+這時候應該可以在jupyter notebook的頁面 (http://localhost:8888/tree) 看到source code資料夾
 
 ![](images/04.png)
 
