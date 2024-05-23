@@ -25,7 +25,9 @@ unzip source code
 ## 3. Download or copy dataset (csv file)
 從kaggle網站上下載dataset, 也可以在現場找Jay or Debby copy (house-prices-advanced-regression-techniques.zip)
 url: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
-    
+
+onedrive: https://1drv.ms/u/s!AtTOeRn1kAVnxCIKEnrcbDqrfqze?e=flPrdZ
+
 ![](images/05.png)    
     
 unzip dataset
